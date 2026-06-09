@@ -15,6 +15,7 @@ This is an unofficial preservation project and is not affiliated with, endorsed 
 The repository does **not** include the original game, installation media, or copyrighted game assets. Links to third-party sources are provided for documentation and preservation purposes only. Availability and legality of third-party sources may vary by jurisdiction.
 
 Users are responsible for ensuring they have the legal right to use any software referenced by this project.
+
 ---
 
 ## Repository Contents
@@ -24,7 +25,7 @@ Users are responsible for ensuring they have the legal right to use any software
 * Compatibility-focused replacement executable for modern Windows systems.
 * References to external preservation resources, including Archive.org.
 * dgVoodoo2 configuration notes.
-* Norwegian Game Preservation and industry exposure Projects resources.
+* Links to my other projects: Norwegian Game Preservation and industry exposure.
 
 ---
 
