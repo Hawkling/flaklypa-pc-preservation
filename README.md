@@ -1,6 +1,6 @@
-# Flåklypa Grand Prix (2000–2002) Preservation Project
+# Flåklypa Grand Prix (2000-2002) Preservation Project
 
-Digital preservation and compatibility project for the original PC releases of *Flåklypa Grand Prix* (2000–2002). (English: *Pinchcliffe Grand Prix*).
+Digital preservation and compatibility project for the original PC releases of *Flåklypa Grand Prix* (2000-2002). (English: *Pinchcliffe Grand Prix*).
 
 Covers only the original release (2000), Anniversary Edition (2001), and Gold Edition (2002).
 
@@ -23,7 +23,7 @@ Users are responsible for ensuring they have the legal right to use any software
 ## Repository Contents
 
 * Installation guides for modern systems.
-* Official updates for 2000–2002 releases.
+* Official updates for 2000-2002 releases.
 * Compatibility-focused replacement executable for modern Windows systems.
 * References to external preservation resources, including Archive.org.
 * dgVoodoo2 configuration notes.
