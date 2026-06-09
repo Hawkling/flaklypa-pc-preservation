@@ -53,7 +53,7 @@ The original games are no longer commercially available. For cultural preservati
     * FGPGULL1.mdf (CD1 Hvit, white)
     * FGPGULL2.mdf (CD2 Svart, black)
     * FGPGULL1.mdf (CD1 Hvit, white) again.
-2. Update with `FGPGOLD_UPD12.exe` – [FlåklypaFix for all updates](https://sites.google.com/view/flaklypafix/).
+2. Update with `FGPGOLD_UPD12.exe` - included in the Archive, sourved from[FlåklypaFix](https://sites.google.com/view/flaklypafix/).
 3. Replace `FGP.exe` in `C:\Program Files (x86)\Flåklypa Grand Prix` with the modern compatibility executable included in this repository or in the archive itself.
 
 > **Basic installation complete. You can play now.** Create a desktop shortcut if desired. 
@@ -98,7 +98,7 @@ De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av 
     * FGPGULL1.mdf (CD1 Hvit)
     * FGPGULL2.mdf (CD2 Svart)
     * FGPGULL1.mdf (CD1 Hvit) igjen.
-2. Oppdater med `FGPGOLD_UPD12.exe` – [FlåklypaFix for alle oppdateringer](https://sites.google.com/view/flaklypafix/)
+2. Oppdater med `FGPGOLD_UPD12.exe` - Inkludert i arkivet, kilde er[FlåklypaFix](https://sites.google.com/view/flaklypafix/)
 3. Erstatt `FGP.exe` i `C:\Program Files (x86)\Flåklypa Grand Prix` med den moderne kompatibilitetsversjonen som du kan laste ned her eller medfølgende i arkivet.
 
 > **Grunnleggende installasjon fullført. Du kan spille nå.** Lag gjerne en snarvei til skrivebordet. 
