@@ -3,6 +3,7 @@
 Digital preservation and compatibility project for the original PC releases of *Flåklypa Grand Prix* (2000–2002). (English: *Pinchcliffe Grand Prix*).
 
 Covers only the original release (2000), Anniversary Edition (2001), and Gold Edition (2002).
+
 These games have not been commercially available for many years.
 
 ---
@@ -36,7 +37,7 @@ Users are responsible for ensuring they have the legal right to use any software
 
 This is a personal effort to document and preserve part of Norway's digital gaming heritage. Many older Norwegian PC games are no longer commercially available and risk being lost without community documentation, public archives, or institutional preservation efforts. 
 
-Games that can no longer be purchased should be considered for archiving through institutions such as the National Library of Norway (*Nasjonalbiblioteket*), rather than relying solely on volunteers and Archive.org.
+Games that can no longer be purchased should be publicly archived through institutions such as the National Library of Norway (*Nasjonalbiblioteket*), rather than relying solely on volunteers and Archive.org.
 
 More interest in projects like the [GOG Dreamlist](https://www.gog.com/dreamlist/game/pinchcliffe-grand-prix-2000) can help demonstrate continued interest in preserving these games. Better availability of older versions could also generate renewed interest in modern re-releases and remakes such as *[Pinchcliffe Grand Prix (2021)](https://store.steampowered.com/app/3352670)*.
 
@@ -124,7 +125,7 @@ Anbefalt oppsett er nå fullført.
 
 ## Troubleshooting & Known Issues
 
-* **[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)** (for other issues see the glossary pages for potential workarounds, also includes, shortcuts, [minigame location guide]([url](https://imgur.com/gallery/Y44AtiM)), savegame location, cheats)
+* **[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)** (for other issues see the glossary pages for potential workarounds. Also includes: shortcuts, [minigame location guide]([url](https://imgur.com/gallery/Y44AtiM)), savegame location, cheats)
 * **Alt-Tabbing** without dgVoodoo 2 has lots of issues due to it being a fullscreen exclusive game, including windows monitor setup being moved around, getting color issues ingame when you tab back into the game, and more
 * **Multiple Monitors:** Use dgVoodoo2 to force the game into a borderless windowed mode.
 * **Steam Overlay/Controllers:** If you add the game as a non-steam game to use controller configurations, the Windows XP compatibility setting causes the `.exe` to run as administrator. This requires **Steam to also run as administrator** for the overlay and controller input to be detected.
@@ -139,9 +140,9 @@ Anbefalt oppsett er nå fullført.
 
 ### Wiki References
 
-* Article on [English Wikipedia (Franchise)](https://en.wikipedia.org/wiki/The_Pinchcliffe_Grand_Prix)
-* Article on [Norwegian Wikipedia (PC Game)](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill))
-* Article on [Norwegian Dub Wiki](https://norske-dubber.fandom.com/no/wiki/Fl%C3%A5klypa_Grand_Prix_(Spill))
+* [English Wikipedia (Franchise)](https://en.wikipedia.org/wiki/The_Pinchcliffe_Grand_Prix)
+* [Norwegian Wikipedia (PC Game)](https://no.wikipedia.org/wiki/Fl%C3%A5klypa_Grand_Prix_(PC-spill))
+* [Norwegian Dub Wiki](https://norske-dubber.fandom.com/no/wiki/Fl%C3%A5klypa_Grand_Prix_(Spill))
 
 ### Norwegian Game Preservation and industry exposure Projects
 
