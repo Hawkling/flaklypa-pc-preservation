@@ -2,7 +2,7 @@
 
 Digital preservation and compatibility project for the original PC releases of *Flåklypa Grand Prix* (2000–2002). (English: *Pinchcliffe Grand Prix*).
 
-Covers only the original release (2000), Anniversary Edition (2001), and Gold Edition (2002).
+Covers only the original release (2000), Anniversary Edition (2001), and Gold Edition (2002). These games have not been available for purchase for many years. 
 
 ---
 
