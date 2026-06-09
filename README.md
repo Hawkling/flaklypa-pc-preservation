@@ -72,7 +72,8 @@ The original games are no longer commercially available. For cultural preservati
 6. Open `dgVoodooCpl.exe`:
     * **General:** Scaling mode: *Unspecified* (for 16:9) or *Keep aspect ratio* (for 4:3).
     * **[DirectX](https://imgur.com/BzplWw1):** Select your desired resolution and turn off "dgVoodoo Watermark."
-    * **[GeneralExt](https://imgur.com/mnglcos):** Right-click and select "Show all sections of the configuration." Enable *Borderless*, *Fullscreen size*, and *Fake*.
+    *  Right-click and select "Show all sections of the configuration.
+    * **[GeneralExt](https://imgur.com/mnglcos):**" Enable *Borderless*, *Fullscreen size*, and *Fake*.
 
 Recommended setup is now complete.
 
@@ -117,7 +118,8 @@ De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av 
 6. Åpne `dgVoodooCpl.exe`:
     * **General:** Scaling mode: *Unspecified* (16:9) eller *Keep aspect ratio* (4:3).
     * **[DirectX](https://imgur.com/BzplWw1):** Velg ønsket oppløsning og slå av "dgVoodoo Watermark".
-    * **[GeneralExt](https://imgur.com/mnglcos):** Høyreklikk, velg "Show all sections of the configuration", og aktiver *Borderless*, *Fullscreen size* og *Fake*.
+    * Høyreklikk, velg "Show all sections of the configuration
+    * **[GeneralExt](https://imgur.com/mnglcos):** ", aktiver *Borderless*, *Fullscreen size* og *Fake*.
 
 Anbefalt oppsett er nå fullført.
 
@@ -155,7 +157,9 @@ Anbefalt oppsett er nå fullført.
 
 ## Credits and Contributions
 
-Thanks to everyone who has contributed information, research, compatibility fixes, and preservation efforts for Norwegian PC games. Corrections, historical documentation, compatibility reports, and technical research are welcome.
+Thanks to everyone who has contributed information, research, compatibility fixes, and preservation efforts for Norwegian PC games. 
+
+Corrections, historical documentation, compatibility reports, and technical research are welcome.
 
 ## License
 
