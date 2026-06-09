@@ -2,7 +2,8 @@
 
 Digital preservation and compatibility project for the original PC releases of *Flåklypa Grand Prix* (2000–2002). (English: *Pinchcliffe Grand Prix*).
 
-Covers only the original release (2000), Anniversary Edition (2001), and Gold Edition (2002). These games have not been commercially available for many years.
+Covers only the original release (2000), Anniversary Edition (2001), and Gold Edition (2002).
+These games have not been commercially available for many years.
 
 ---
 
@@ -57,7 +58,7 @@ The original games are no longer commercially available. For cultural preservati
     * FGPGULL2.mdf (CD2 Svart, black)
     * FGPGULL1.mdf (CD1 Hvit, white) again.
 2. Update with `FGPGOLD_UPD12.exe` - sourced from [FlåklypaFix](https://sites.google.com/view/flaklypafix/).
-3. Replace `FGP.exe` in `C:\Program Files (x86)\Flåklypa Grand Prix` with the modern compatibility, replacement executable provided in the Releases section of this repository.
+3. Replace `FGP.exe` in `C:\Program Files (x86)\Flåklypa Grand Prix` with the modern compatibility [replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases).
 
 > **Basic installation complete. You can play now.** Create a desktop shortcut if desired. 
 >
@@ -102,7 +103,7 @@ De originale spillene er ikke lenger kommersielt tilgjengelige. For bevaring av 
     * FGPGULL2.mdf (CD2 Svart)
     * FGPGULL1.mdf (CD1 Hvit) igjen.
 2. Oppdater med `FGPGOLD_UPD12.exe` - kilde er [FlåklypaFix](https://sites.google.com/view/flaklypafix/)
-3. Erstatt `FGP.exe` i `C:\Program Files (x86)\Flåklypa Grand Prix` med den moderne kompatibilitetsversjonen, replacement executable som du kan laste ned her eller medfølgende i arkivet.
+3. Erstatt `FGP.exe` i `C:\Program Files (x86)\Flåklypa Grand Prix` med den moderne kompatibilitetsversjonen: [replacement executable](https://github.com/Hawkling/Flaklypa-Grand-Prix_2000-2002_Preservation-Project/releases).
 
 > **Grunnleggende installasjon fullført. Du kan spille nå.** Lag gjerne en snarvei til skrivebordet. 
 >
@@ -123,7 +124,7 @@ Anbefalt oppsett er nå fullført.
 
 ## Troubleshooting & Known Issues
 
-* **[PCGamingWiki Page for more info](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)** (if you have more issues see the glossary page for potential workarounds, also includes, shortcuts, minigame location guide, savegame location, cheats)
+* **[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)** (for other issues see the glossary pages for potential workarounds, also includes, shortcuts, [minigame location guide]([url](https://imgur.com/gallery/Y44AtiM)), savegame location, cheats)
 * **Alt-Tabbing** without dgVoodoo 2 has lots of issues due to it being a fullscreen exclusive game, including windows monitor setup being moved around, getting color issues ingame when you tab back into the game, and more
 * **Multiple Monitors:** Use dgVoodoo2 to force the game into a borderless windowed mode.
 * **Steam Overlay/Controllers:** If you add the game as a non-steam game to use controller configurations, the Windows XP compatibility setting causes the `.exe` to run as administrator. This requires **Steam to also run as administrator** for the overlay and controller input to be detected.
@@ -131,8 +132,6 @@ Anbefalt oppsett er nå fullført.
 ---
 
 ## External resources
-
-### Flåklypa Resources
 
 * [PCGamingWiki Page](https://www.pcgamingwiki.com/wiki/Pinchcliffe_Grand_Prix)
 * [FlåklypaFix](https://sites.google.com/view/flaklypafix/): Primary source for official updates.
